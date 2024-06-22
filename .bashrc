@@ -14,7 +14,7 @@ PS1='$ '
 ####################
 export PATH=$PATH:/home/ahmer/Downloads/node-v20.14.0-linux-x64/bin
 export EDITOR=nvim
-alias note="opennote"
+alias notes="opennote"
 alias bashrc="nvim ~/.bashrc"
 
 opennote() {
