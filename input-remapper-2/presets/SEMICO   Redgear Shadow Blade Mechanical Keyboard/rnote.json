@@ -1,0 +1,122 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 76,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 77,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_6",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 71,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_5",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 72,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_D",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 73,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "hold_keys(KEY_LEFTALT, KEY_LEFTSHIFT)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 79,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 78,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_LEFTSHIFT+KEY_Z",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 96,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_Z",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 80,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_DELETE",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 75,
+                "origin_hash": "51ffb4e37a4311d5a0b8226dc46879ac"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL+KEY_1",
+        "mapping_type": "key_macro"
+    }
+]
