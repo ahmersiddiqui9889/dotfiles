@@ -69,7 +69,7 @@ output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
     bindsym $mod+q kill
 
     # Start your launcher
-    bindsym F9 exec $menu
+    bindsym $mod+d exec $menu
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -212,8 +212,8 @@ client.focused #ffffff #dddddd #555555
 input "type:keyboard" xkb_options caps:swapescape
 
 # Monitor Positioning and Background
-output HDMI-A-1 mode 1366x768@59.790hz pos 0,0 adaptive_sync on scale 0.75 bg /home/ahmer/Pictures/Wallpapers/eclipse.jpg fill
-output eDP-1 mode 1920x1200@60.003hz pos 1822,-100 adaptive_sync on bg /home/ahmer/Pictures/Wallpapers/bluemoon.jpg fill
+output HDMI-A-1 mode 1366x768@59.790hz pos 0,0 adaptive_sync on scale 0.75 bg /home/ahmer/Pictures/Wallpapers/wall2.jpg fill
+output eDP-1 mode 1920x1200@60.003hz pos 1822,-100 adaptive_sync on bg /home/ahmer/Pictures/Wallpapers/wall1.jpg fill
 
 # Audio Control using Keyboard
 bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +5%
