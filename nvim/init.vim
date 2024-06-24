@@ -11,7 +11,7 @@ set smartindent
 set smarttab
 set expandtab
 
-set nowrap
+set wrap
 set listchars=eol:.,tab:>-,trail:-,extends:>,precedes:<
 
 set cursorline

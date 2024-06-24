@@ -17,6 +17,7 @@ export EDITOR=nvim
 alias notes="opennote"
 alias note="quicknote"
 alias bashrc="nvim ~/.bashrc"
+alias backup="gitpush"
 
 opennote() {
   temp=$(pwd)
@@ -33,3 +34,8 @@ quicknote() {
   echo "" >> ~/Notes/note
 }
 
+gitpush() {
+  git add .
+  git commit -m "Commit by alias"
+  git push origin main
+}
